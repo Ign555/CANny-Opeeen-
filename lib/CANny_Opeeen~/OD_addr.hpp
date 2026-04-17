@@ -1,0 +1,10 @@
+#ifndef __OD_ADDR_HPP__
+#define __OD_ADDR_HPP__
+
+#define DEVICE_TYPE 0x1000
+#define MANUFACTURER_DEVICE_NAME 0x1008
+#define IDENTITY_OBJECT 0x1018
+#define NODE_ID_ADDR 0x2000
+#define CAN_BITRATE_ADDR 0x2001
+
+#endif
